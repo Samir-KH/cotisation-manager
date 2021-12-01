@@ -60,4 +60,38 @@ this script provides the following commands
 >result : the program will be closed
 
 
+## Exemple
+```bash
+PS C:\Users\Samir EL KHYATI\Desktop\Cotisation Manager> python .\cotisaionManager.py
+===============================================
+=
+=    Welcome to contributions equilibrator
+=    By Samir EL KHYATI
+=
+===============================================
+equilibrator>addcontributor samir 23
+equilibrator>addcontributor alice 10
+equilibrator>addcontributor bobe 5
+equilibrator>addcontributor tony 35
+equilibrator>total
+> 73.0
+equilibrator>showcontributors
+> samir gives23.0
+> alice gives10.0
+> bobe gives5.0
+> tony gives35.0
+equilibrator>resolve
+>Total price: 73.0
+>Obligation: 18.25
+>
+>
+> samir take 4.75
+> alice give 8.25
+> bobe give 13.25
+> tony take 16.75
+equilibrator>quit
+PS C:\Users\Samir EL KHYATI\Desktop\Cotisation Manager>
+
+```
+
 ## License
