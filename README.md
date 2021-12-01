@@ -1,2 +1,2 @@
 # cotisation-manager
-This script will help tomanage a cotisation program
+This script will help to manage a cotisation program
