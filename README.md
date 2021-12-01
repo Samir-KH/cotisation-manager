@@ -23,7 +23,7 @@ and you well be invited to tape commands
 equilibrator>
 ```
 
-## Usage
+## commad line
 this script provides the following commands
 
 >**addcontributor**
