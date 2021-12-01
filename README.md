@@ -1,4 +1,4 @@
-# cotisation-manager
+# Cotisation-manager
 
 This script will be a tool to manage a contribution program
 in some cases some people paid more or less so this tool can be used to balance obligations between members
@@ -23,7 +23,7 @@ and you well be invited to tape commands
 equilibrator>
 ```
 
-## commad line
+## Commad line
 this script provides the following commands
 
 >**addcontributor**
